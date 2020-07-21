@@ -5,7 +5,7 @@ This repository contains files for a step-by-step tutorial for processing and cl
 
 * <b>Gionfriddo-et-al-hgcAB-amplicon-tutorial-directions.pdf:</b> step-by-step instructions
 * <b>The raw paired-end sequencing files for five samples:</b>
-  1.	1064_Alt35_S186_R1_001.fastq.zip
+  **	1064_Alt35_S186_R1_001.fastq.zip
   2.	1064_Alt35_S186_R2_001.fastq.zip
   3.	m1combo1_Alt30_S69_R1_001.fastq.zip
   4.	m1combo1_Alt30_S69_R2_001.fastq.zip
