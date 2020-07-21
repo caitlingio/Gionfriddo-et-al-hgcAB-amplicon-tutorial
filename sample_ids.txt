@@ -1,0 +1,5 @@
+m1combo1_alt30	fastq-sequencing-files/m1combo1_Alt30_S69_R1_001.fastq	fastq-sequencing-files/m1combo1_Alt30_S69_R2_001.fastq
+m2combo2_alt30	fastq-sequencing-files/m2combo2_Alt30_S103_R1_001.fastq	fastq-sequencing-files/m2combo2_Alt30_S103_R2_001.fastq
+m1064_1combo1_alt35	fastq-sequencing-files/m1064_1combo1_Alt35_S73_R1_001.fastq	fastq-sequencing-files/m1064_1combo1_Alt35_S73_R2_001.fastq
+m1064_2combo1_alt35	fastq-sequencing-files/m1064_2combo1_Alt35_S84_R1_001.fastq	fastq-sequencing-files/m1064_2combo1_Alt35_S84_R2_001.fastq
+1064_alt35	fastq-sequencing-files/1064_Alt35_S186_R1_001.fastq	fastq-sequencing-files/1064_Alt35_S186_R2_001.fastq
