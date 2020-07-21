@@ -5,16 +5,16 @@ This repository contains files for a step-by-step tutorial for processing and cl
 
 * <b>Gionfriddo-et-al-hgcAB-amplicon-tutorial-directions.pdf:</b> step-by-step instructions
 * <b>The raw paired-end sequencing files for five samples:</b>
-  o	1064_Alt35_S186_R1_001.fastq.zip
-  o	1064_Alt35_S186_R2_001.fastq.zip
-  o	m1combo1_Alt30_S69_R1_001.fastq.zip
-  o	m1combo1_Alt30_S69_R2_001.fastq.zip
-  o	m2combo2_Alt30_S103_R1_001.fastq.zip
-  o	m2combo2_Alt30_S103_R2_001.fastq.zip
-  o	m1064_1combo1_Alt35_S73_R1_001.fastq.zip
-  o	m1064_1combo1_Alt35_S73_R2_001.fastq.zip
-  o	m1064_2combo1_Alt35_S84_R1_001.fastq.zip
-  o	m1064_2combo1_Alt35_S84_R2_001.fastq.zip
+  1.	1064_Alt35_S186_R1_001.fastq.zip
+  2.	1064_Alt35_S186_R2_001.fastq.zip
+  3.	m1combo1_Alt30_S69_R1_001.fastq.zip
+  4.	m1combo1_Alt30_S69_R2_001.fastq.zip
+  5.	m2combo2_Alt30_S103_R1_001.fastq.zip
+  6.	m2combo2_Alt30_S103_R2_001.fastq.zip
+  7.	m1064_1combo1_Alt35_S73_R1_001.fastq.zip
+  8.	m1064_1combo1_Alt35_S73_R2_001.fastq.zip
+  9.	m1064_2combo1_Alt35_S84_R1_001.fastq.zip
+  10.	m1064_2combo1_Alt35_S84_R2_001.fastq.zip
 *	<b>sample_ids.txt:</b> text file of sample information/IDs for fastq sequencing files
 *	<b>ORNL_HgcA_201.refpkg:</b> the ORNL compiled Hg-methylator database reference package
 *	<b>HgcA_201_hmm:</b> hidden markov model of HgcA homology from ORNL_HgcA_201.refpkg
